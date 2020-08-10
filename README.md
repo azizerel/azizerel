@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Aziz
 
-![Aziz's github stats](https://github-readme-stats.vercel.app/api?username=azizerel&show_icons=true&theme=radical)
+![Aziz's github stats](https://github-readme-stats.vercel.app/api?username=azizerel&show_icons=true&theme=buefy)
 
 
 [<img src='https://raw.githubusercontent.com/azizerel/azizerel/master/git.png' alt='github' height='30'>](https://github.com/azizerel) 
