@@ -3,6 +3,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=azizerel&show_icons=true)  
 
+![Aziz's github stats](https://github-readme-stats.vercel.app/api?username=azizerel&show_icons=true&theme=radical)
+
 
 [<img src='https://raw.githubusercontent.com/azizerel/azizerel/master/git.png' alt='github' height='30'>](https://github.com/azizerel) 
 [<img src='https://raw.githubusercontent.com/azizerel/azizerel/master/in.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/azizerel/)
